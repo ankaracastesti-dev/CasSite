@@ -1,0 +1,4 @@
+Fotoğrafları bu klasöre koyun (ör. samet-agcaer.jpg, calisma-odasi.jpg).
+Sonra index.html içinde ilgili <div class="ph"> ... </div> satırını
+<img src="images/dosya-adi.jpg" alt="Kısa açıklama" loading="lazy">
+ile değiştirin. Fotoğrafları yüklemeden önce 1600 piksel genişliği geçmeyecek şekilde küçültün.
